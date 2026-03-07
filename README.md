@@ -21,7 +21,7 @@ Sou uma pessoa **comunicativa, criativa e autodidata**, com facilidade para apre
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://www.linkedin.com/in/leonardo-magno-4886993b5/" target="_blank"><img href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Desenvolvimento Web
