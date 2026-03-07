@@ -46,9 +46,7 @@ Google Workspace for Education
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=magno-leo&area=true&custom_title=Contribuições+do+Leo)
 
 ---
 
