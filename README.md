@@ -46,7 +46,8 @@ Google Workspace for Education
 
 ## 📊 Estatísticas do GitHub
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=magno-leo&area=true&custom_title=Contribuições+do+Leo)
+![Streak do Leo](https://streak-stats.demolab.com?user=magno-leo&theme=tokyonight&hide_border=true)
+![Contribuições do Leo](https://ghchart.rshah.org/magno-leo)
 
 ---
 
