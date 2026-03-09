@@ -60,4 +60,5 @@ Continuar evoluindo na área de tecnologia, desenvolvendo projetos que me permit
 ## 📫 Contato
 
 💼 LinkedIn: https://linkedin.com/in/leonardo-magno
+
 📧 Email: magnoleo10filho@gmail.com  
