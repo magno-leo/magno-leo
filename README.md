@@ -46,8 +46,8 @@ Google Workspace for Education
 
 ## 📊 Estatísticas do GitHub
 
-![Streak do Leo](https://streak-stats.demolab.com?user=magno-leo&theme=tokyonight&hide_border=true)
-![Contribuições do Leo](https://ghchart.rshah.org/magno-leo)
+![Streak](https://streak-stats.demolab.com?user=magno-leo&theme=tokyonight&hide_border=true)
+![Contribuições](https://ghchart.rshah.org/magno-leo)
 
 ---
 
@@ -59,5 +59,5 @@ Continuar evoluindo na área de tecnologia, desenvolvendo projetos que me permit
 
 ## 📫 Contato
 
-💼 LinkedIn  
-📧 Email  
+💼 LinkedIn: https://linkedin.com/in/leonardo-magno
+📧 Email: magnoleo10filho@gmail.com  
